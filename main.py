@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 # Создать глобального бота
 bot = Bot(
-    token='1117894046:AAFlUBxLIJ7qTFHkku2JFGbfLKFiq1qyg00',
+    token='',
 )
 dp = Dispatcher(
     bot=bot,
